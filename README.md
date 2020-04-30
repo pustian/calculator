@@ -12,3 +12,5 @@ source:
     Operator: enum to support Calculator
     ArithmeticUtils: BigDecimal add/sub/mul/div/format
 
+
+通过设计模式，优化代码。
